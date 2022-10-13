@@ -1,1 +1,1 @@
-# Loan_Approval_System
+# LOAN-APPROVEL-SYSTEM
